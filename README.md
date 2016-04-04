@@ -11,9 +11,9 @@ Jerome Mutterer and Christian Rouvière, CNRS.
  
 Links
 =====
-Micro-Manager: https://www.micro-manager.org
-OpenSpim: http://openspim.org
-Webcam Capture documentation: http://webcam-capture.sarxos.pl
-Picard Industries: http://www.picard-industries.com 
+* Micro-Manager: https://www.micro-manager.org
+* OpenSpim: http://openspim.org
+* Webcam Capture documentation: http://webcam-capture.sarxos.pl
+* Picard Industries: http://www.picard-industries.com 
 
 
