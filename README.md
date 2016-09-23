@@ -8,6 +8,13 @@ A micromanager plugin that displays two live feeds from webcams observing the sa
 Authors
 =======
 Jerome Mutterer and Christian Rouvière, CNRS.
+
+How to try
+===========
+* Install Micro-Manager and the Picard 4D stage using the Hardware Configuration Wizard
+* Copy StageCamControl.jar from this repo into MM/mmplugins/ folder
+* Restart MM 
+* Start Plugins > Stage Cam Control
  
 Links
 =====
